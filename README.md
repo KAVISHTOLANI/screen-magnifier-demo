@@ -2,7 +2,7 @@
 
 A low-vision design demo. Use a lens or full-screen magnifier on a sample page, switch it between high-contrast themes with live WCAG contrast checks, and measure focus indicators against the WCAG 2.2 focus-appearance rules.
 
-**Live demo:** [https://focus-field.vercel.app/](https://focus-field.vercel.app/) — runs entirely in your browser.
+**Live demo:** [https://focus-field-demo.vercel.app/](https://focus-field-demo.vercel.app/) — runs entirely in your browser.
 
 ![Landing with a lens magnifier over the sample page](docs/landing.png)
 
